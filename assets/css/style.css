@@ -346,15 +346,7 @@ html, body {
     box-shadow: 0px 0px 40px 8px rgba(0, 0, 0, 0.2);
     z-index: 1;
 }
-h1{
-    color: red;
-}
-h2{
-    color: red;
-}
-h3{
-    color: red;
-}
+
 .service h4 {
     margin: 25px 0;
     font-size: 24px;
